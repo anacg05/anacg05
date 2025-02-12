@@ -10,7 +10,7 @@
 
 ## _Linguagens de Programação_
 > HTML / CSS / JavaScript / PHP <br>
-> Java / Python <br>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> Python <br>
 > C++ / C#
 
 ## _Redes Sociais_
