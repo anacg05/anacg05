@@ -1,7 +1,7 @@
 
 
 # _Ana Clara Grizotto_
->20 years
+>20 years <br>
 >Bosch Brazil, Digital Solutions
 
 ## _Formação Acadêmica_
