@@ -5,17 +5,17 @@
 >Bosch Brazil, Digital Solutions
 
 ## _Formação Acadêmica_
-> Superior Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIP Campinas
+> Superior Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIP Campinas <br>
 > Curso Técnico de Informática - IFSP Hortolândia
 
 ## _Linguagens de Programação_
-> HTML / CSS / JavaScript / PHP
-> Java / Python
+> HTML / CSS / JavaScript / PHP <br>
+> Java / Python <br>
 > C++ / C#
 
 ## _Redes Sociais_
 
->Instagram: www.instagram.com/anaclaragzt
+>Instagram: www.instagram.com/anaclaragzt <br>
 >Linkedin: www.linkedin.com/in/ana-clara-grizotto
 
 <div align="left">
