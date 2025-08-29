@@ -21,9 +21,39 @@
           
           
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlserver" width="50px" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlserver" width="50px" /><br><br>
 
-<div align="left">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0dTBpMXNxZ2RnMXZ0aTg5cGNhNWgwdXM1eHRhMG5iMmlpNjhsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4eWOGe4WKSWeh6vmQ2/giphy.gif" alt="GYM" width="25%"/>
 
+### Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img
+        alt="GitHub Stats"
+        height="150"
+        src="https://github-readme-stats.vercel.app/api?username=anacg05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img
+        alt="GitHub Stats"
+        height="150"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacg05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0dTBpMXNxZ2RnMXZ0aTg5cGNhNWgwdXM1eHRhMG5iMmlpNjhsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4eWOGe4WKSWeh6vmQ2/giphy.gif"
+    alt="GYM"
+    width="25%"
+  />
 </div>
+
+
+
